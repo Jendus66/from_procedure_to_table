@@ -1,6 +1,6 @@
 # from_procedure_to_table
 
-This short Python script for getting data from SQL procedure and insert them into a table. If some exception occurs during the run, script sends a notification to smartphone via Pushover app.
+This short Python script for getting data from SQL procedure and insert them into a table. If some exception occurs during the run, script sends a notification to smartphone via Pushover app.<br>
 The script does these actions:
 1) Get credentials from config.py
 2) Connection to database
