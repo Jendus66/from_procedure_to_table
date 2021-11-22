@@ -1,0 +1,5 @@
+2021-07-21 23:00:02,132:INFO:Obsah o2_qstats_jd vymazan
+2021-07-21 23:00:02,148:INFO:Kurzy pro statistiku nacteny
+2021-07-21 23:02:27,183:INFO:Pocet dohledavanych kurzu: 11
+2021-07-21 23:02:27,183:INFO:Pocet vlozenych otazek: 1409
+2021-07-21 23:02:27,183:INFO:Program ukoncen bez chyby
